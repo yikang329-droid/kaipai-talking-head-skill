@@ -1,0 +1,8 @@
+interface:
+  display_name: "开拍风格口播剪辑"
+  short_description: "把竖屏真人口播剪成开拍风格双语成片并生成独立封面图片"
+  brand_color: "#43E6C1"
+  default_prompt: "使用 $kaipai-talking-head 把这个口播视频剪成开拍风格成片，并生成独立封面。"
+
+policy:
+  allow_implicit_invocation: true
